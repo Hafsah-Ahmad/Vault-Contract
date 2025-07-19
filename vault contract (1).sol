@@ -59,4 +59,3 @@ contract Vault {
 fuck
 fuck
 fuck
-fcujk
