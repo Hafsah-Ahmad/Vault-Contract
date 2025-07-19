@@ -55,5 +55,3 @@ contract Vault {
         return address(this).balance;
     }
 }
-
-fuck
